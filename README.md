@@ -87,7 +87,8 @@ BookWhisper/
 
 ## 💻 Streamlit Dashboard Preview
 
-*Insert screenshot here (e.g., assets/screenshot.png)*
+### Working Demo
+![Working Demo Screenshot](working-demo.png)
 
 **UI Features**:
 - Text input for custom book queries
@@ -98,7 +99,7 @@ BookWhisper/
 
 ## 🎥 Video Demo:
 
-![BookWhisper Demo](book_whisper_demo.gif)
+Watch the demo on YouTube: [https://youtu.be/Gec4onU-Zjc](https://youtu.be/Gec4onU-Zjc)
 
 
 ---
